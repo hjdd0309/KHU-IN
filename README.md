@@ -55,19 +55,6 @@ KHU-IN은 경희대학교 학생들이 **같이 활동할 사람을 쉽게 찾�
 
 ---
 
-## 🛠️ **기술 스택**  
-| **Category**  | **Tech Stack**  |
-|--------------|----------------|
-| **Frontend**  | React.js / Next.js / Tailwind CSS |
-| **Backend**  | Node.js / Express.js / Python (FastAPI) |
-| **Database**  | PostgreSQL / MongoDB |
-| **Authentication** | JWT 기반 로그인 / 학교 이메일 인증 |
-| **Real-time Communication** | WebSocket / Firebase Chat |
-| **Deployment** | AWS / Vercel / Docker |
-| **Version Control** | Git / GitHub |
-
----
-
 ## 📌 **설계 및 개발 과정**  
 ### 📍 1. 문제 정의 (5 Whys 기법)  
 > 왜 경희대 학생들은 함께할 사람을 구하기 어려운가?  
